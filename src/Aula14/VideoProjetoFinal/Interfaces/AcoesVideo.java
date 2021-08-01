@@ -1,4 +1,4 @@
-package Aula14.VideoProjetoFInal.Interfaces;
+package Aula14.VideoProjetoFinal.Interfaces;
 
 public interface AcoesVideo {
 

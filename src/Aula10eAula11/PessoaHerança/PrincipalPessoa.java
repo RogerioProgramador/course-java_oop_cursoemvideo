@@ -1,6 +1,6 @@
 package Aula10eAula11.PessoaHerança;
 
-import Aula10.PessoaHerança.Classes.*;
+
 import Aula10eAula11.PessoaHerança.Classes.*;
 
 public class PrincipalPessoa {

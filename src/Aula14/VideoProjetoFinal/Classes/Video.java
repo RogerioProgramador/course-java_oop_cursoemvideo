@@ -1,6 +1,6 @@
-package Aula14.VideoProjetoFInal.Classes;
+package Aula14.VideoProjetoFinal.Classes;
 
-import Aula14.VideoProjetoFInal.Interfaces.AcoesVideo;
+import Aula14.VideoProjetoFinal.Interfaces.AcoesVideo;
 
 public class Video implements AcoesVideo {
     private String titulo;

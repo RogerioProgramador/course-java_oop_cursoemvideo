@@ -1,8 +1,6 @@
 package Aula12eAula13.AnimalPolimorfismo;
 
 
-import Aula12.AnimalPolimorfismo.Classes.*;
-import Aula12.AnimalPolimorfismo.Classes.Mamiferos.*;
 import Aula12eAula13.AnimalPolimorfismo.Classes.Ave;
 import Aula12eAula13.AnimalPolimorfismo.Classes.Mamiferos.Cachorro;
 import Aula12eAula13.AnimalPolimorfismo.Classes.Mamiferos.Canguru;

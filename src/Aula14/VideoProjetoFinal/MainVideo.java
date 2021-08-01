@@ -1,8 +1,8 @@
-package Aula14.VideoProjetoFInal;
+package Aula14.VideoProjetoFinal;
 
-import Aula14.VideoProjetoFInal.Classes.Gafanhoto;
-import Aula14.VideoProjetoFInal.Classes.Video;
-import Aula14.VideoProjetoFInal.Classes.Visualizacao;
+import Aula14.VideoProjetoFinal.Classes.Gafanhoto;
+import Aula14.VideoProjetoFinal.Classes.Video;
+import Aula14.VideoProjetoFinal.Classes.Visualizacao;
 
 public class MainVideo {
 

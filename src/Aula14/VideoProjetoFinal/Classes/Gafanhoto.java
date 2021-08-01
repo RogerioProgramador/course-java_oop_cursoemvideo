@@ -1,4 +1,4 @@
-package Aula14.VideoProjetoFInal.Classes;
+package Aula14.VideoProjetoFinal.Classes;
 
 public class Gafanhoto extends Pessoa{
     private String login;
