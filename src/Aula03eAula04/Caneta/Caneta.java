@@ -7,7 +7,7 @@ public class Caneta {
     private boolean tampada;
 
     //Constructors
-    public Caneta (){}
+    public Caneta () {}
     public Caneta(String m, String c, float p, boolean t) {
         this.modelo = m;
         this.cor = c;
@@ -31,7 +31,6 @@ public class Caneta {
     public void destampar() {
         this.tampada = false;
     }
-
 
     //Getters and Setters
     public String getModelo() {
